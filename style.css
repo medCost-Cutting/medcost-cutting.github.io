@@ -14,3 +14,6 @@ html {
 .underlineWavy {
   text-decoration: underline wavy;
 }
+.projectTitle {
+  text-align: center;
+}
