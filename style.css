@@ -17,3 +17,12 @@ html {
 .projectTitle {
   text-align: center;
 }
+.Background {
+  border: 3px solid green;
+}
+.Intro {
+  border: 3px solid green;
+}
+.statusReport {
+  border: 3px solid green;
+}
