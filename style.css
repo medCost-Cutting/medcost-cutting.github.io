@@ -11,6 +11,6 @@ html {
 .underline {
   text-decoration: underline;
 }
-.underlineDotted {
-  text-decoration: underline dotted;
+.underlineWavy {
+  text-decoration: underline wavy;
 }
