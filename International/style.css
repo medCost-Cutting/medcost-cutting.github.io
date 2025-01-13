@@ -1,6 +1,9 @@
 html {
   font-family: "Helvetica", sans-serif;
 }
+.italics {
+  font-family: italic;
+}
 .underline {
   text-decoration: underline;
 }
