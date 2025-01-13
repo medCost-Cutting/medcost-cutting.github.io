@@ -1,1 +1,12 @@
-
+html {
+  font-family: "Helvetica", sans-serif;
+}
+.underline {
+  text-decoration: underline;
+}
+.underlineWavy {
+  text-decoration: underline wavy;
+}
+.center {
+  text-align: center;
+}
