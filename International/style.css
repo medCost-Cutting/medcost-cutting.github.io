@@ -2,7 +2,7 @@ html {
   font-family: "Helvetica", sans-serif;
 }
 .italic {
-  font-family: italic;
+  font-style: italic;
 }
 .underline {
   text-decoration: underline;
