@@ -4,6 +4,9 @@ html {
 .god {
   font-family: "Times New Roman", Times, serif;
 }
+.underline {
+  text-decoration: underline;
+}
 .center {
   text-align: center;
 }
