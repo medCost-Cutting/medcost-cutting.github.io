@@ -12,3 +12,12 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
+del {
+  text-decoration: line-through;
+  background-color: #fbb;
+  color: #555;
+}
+ins {
+  text-decoration: none;
+  background-color: #d4fcbc;
+}
