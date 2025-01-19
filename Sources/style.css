@@ -15,3 +15,7 @@ ins {
   text-decoration: none;
   background-color: #d4fcbc;
 }
+.italic {
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+}
